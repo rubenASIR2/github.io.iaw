@@ -82,11 +82,14 @@ git commit -m "Añadir ejercicios de IAW"
 git push origin gh-pages
 ```
 ![Ejercicio5Captura6](images1/Subida%20de%20archivos%20a%20GitHub.png)
-
+![Ejercicio5Captura7](images1/gitcommitcasifinal.png)
+![Ejercicio5Captura8](images1/Gitpushorigingh-pages.png)
 
 
 
 *Con estos comandos añadi los archivos a Git, guardé los cambios mediante una confirmación y los subí a la rama gh-pages del repositorio remoto*
+
+![Ejercicio5Captura9](images1/Comprobacion%20de%20los%20cambios%20hechos%20en%20github.png)
 
 ## 7. Configuración de GitHub Pages
 
