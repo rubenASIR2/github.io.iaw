@@ -30,8 +30,6 @@
 
 $ git clone https://USERNAME:TOKEN@github.com/USERNAME/REPO.git
 ```
-![Ejercicio5captura4](images1/Clonacionrepositorio.png)
-
 *El comando descarga el repositorio original lo clona*
 
 ## 4. Copia de los archivos 
