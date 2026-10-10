@@ -81,6 +81,9 @@ git add README.md actividad1_1
 git commit -m "Añadir ejercicios de IAW"
 git push origin gh-pages
 ```
+![Ejercicio5Captura6](images1/Subida%20de%20archivos%20a%20GitHub.png)
+
+
 
 
 *Con estos comandos añadi los archivos a Git, guardé los cambios mediante una confirmación y los subí a la rama gh-pages del repositorio remoto*
