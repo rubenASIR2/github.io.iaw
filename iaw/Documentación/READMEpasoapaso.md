@@ -101,6 +101,7 @@ git push origin gh-pages
 5. Seleccioné la carpeta /root.
 6. Pulsé **Save** para guardar los cambios.
 ```
+![Ejercicio5Captura10](images1/Publicacion%20de%20la%20pagina%20web%20de%20github%20pages.png)
 
 ## 8. Comprobación del sitio web
 
