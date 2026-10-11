@@ -112,7 +112,7 @@ mostrara el índice de los ejercicios*
 
 [ https://rubenasir2.github.io/github.io.iaw/]( https://rubenasir2.github.io/github.io.iaw/)
 
-*También comprobé que los enlaces a los ejercicios dirigieran a los documentos correspondientes y que las imágenes,en caso de utilizarlas, se mostraran correctamente*.
+*También comprobé que los enlaces a los ejercicios dirigieran a los documentos correspondientes y que las imágenes,en caso de utilizarlas, se mostraran correctamente, esto seria todo*.
 
 
 
