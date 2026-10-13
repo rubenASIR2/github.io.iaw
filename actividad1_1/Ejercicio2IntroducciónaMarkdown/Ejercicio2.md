@@ -9,6 +9,7 @@
 
 **Esto es un texto en negrita ejemplo para la tarea**
 _Esto es un texto en cursiva_
+Este es un párrafo con **texto en negrita**, _texto en cursiva_ y una palabra en `código`.
 <!--Un trozo de código-->
 ```bash
 mkdir images
