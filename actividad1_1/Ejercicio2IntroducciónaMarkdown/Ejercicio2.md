@@ -3,13 +3,17 @@
 # Rubén Marcos Cuadrado Ugbomah
 
 <!--Un subtítulo-->
-Esto es un subtitulo de ejemplo, para la tarea.
+## Esto es un subtitulo de ejemplo, para la tarea.
 
 <!--Un párrafo, con palabras en negrita, en cursiva, en código (por ejemplo esto está escrito en código)-->
 
 **Esto es un texto en negrita ejemplo para la tarea**
 _Esto es un texto en cursiva_
 <!--Un trozo de código-->
+```bash
+mkdir images
+echo "Hola mundo" > archivo1.txt
+```
 <!--Una lista ordenada-->
 1. Lista ordenada 1
 2. Lista ordenada 2
