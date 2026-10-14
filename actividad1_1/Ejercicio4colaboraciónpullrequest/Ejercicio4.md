@@ -63,8 +63,7 @@ git push -u origin ejercicio4-rmcu
 ```
 * ![Captura11](images/gitaddgitcommitgitpushejercicio4-rmcu.png)
 * ![Captura12](images/gitpushoriginejercicio4-rmcu.png)
-*Con estos pasos, la rama `ejercicio4-rmcu` quedó disponible en GitHub para realizar el Pull Request*
-*A continuación muestro el estado final de pull request* 
+* *Con estos pasos, la rama `ejercicio4-rmcu` quedó disponible en GitHub para realizar el Pull Request*
+* *A continuación muestro el estado final de pull request* 
 * ![Captura13](images/pullrequest.png)
 * ![Captura14](images/pullrequest2.png)
-* ![Captura15](images/pullrequest3.png)
