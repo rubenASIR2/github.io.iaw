@@ -110,10 +110,9 @@ mostrara el índice de los ejercicios*
 
 *La dirección del sitio web es:*
 
-[ https://rubenasir2.github.io/github.io.iaw/]( https://rubenasir2.github.io/github.io.iaw/)
+[Enlace](https://rubenasir2.github.io/github.io.iaw/)
 
 *También comprobé que los enlaces a los ejercicios dirigieran a los documentos correspondientes y que las imágenes,en caso de utilizarlas, se mostraran correctamente, esto seria todo practicamente*.
-
 
 
 
