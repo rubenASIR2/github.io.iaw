@@ -217,6 +217,7 @@ Estas marcas son añadidas automáticamente por Git para indicar las dos version
 
 * git push origin segunda
 
+![Captura](images1/gitpushoriginsegunda.png)
 
 ### Con este comando, la rama segunda quedó creada también en GitHub.
 
